@@ -77,7 +77,7 @@ $fm = new Format();
                 <a href="login.php">Login</a>
             </div><!-- button -->
             <div class="button">
-                <a href="../index.php" target="_blank">Tech Daily</a>
+                <a href="../index.php" target="_blank">Book Publication Media</a>
             </div><!-- button -->
         </section><!-- content -->
     </div><!-- container -->
